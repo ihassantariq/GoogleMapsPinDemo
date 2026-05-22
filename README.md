@@ -1,4 +1,4 @@
-# Google Maps Pin Demo
+# Custom Map Marker Info Window
 
 A .NET MAUI app demonstrating how to display custom map pins with info windows using Google Maps.
 
