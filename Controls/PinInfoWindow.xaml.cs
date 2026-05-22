@@ -1,4 +1,4 @@
-namespace GoogleMapsPinDemo.Controls;
+namespace MauiGoogleMapsInfoWindow.Controls;
 
 public partial class PinInfoWindow : ContentView
 {

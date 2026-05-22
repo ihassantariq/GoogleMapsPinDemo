@@ -1,7 +1,7 @@
 using Maui.GoogleMaps.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace GoogleMapsPinDemo;
+namespace MauiGoogleMapsInfoWindow;
 
 public static class MauiProgram
 {

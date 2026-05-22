@@ -1,4 +1,4 @@
-namespace GoogleMapsPinDemo;
+namespace MauiGoogleMapsInfoWindow;
 
 public partial class App : Application
 {

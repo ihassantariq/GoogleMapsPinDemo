@@ -1,6 +1,6 @@
 using UIKit;
 
-namespace GoogleMapsPinDemo;
+namespace MauiGoogleMapsInfoWindow;
 
 public class Program
 {

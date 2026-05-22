@@ -1,4 +1,4 @@
-namespace GoogleMapsPinDemo;
+namespace MauiGoogleMapsInfoWindow;
 
 /// <summary>
 /// App-wide constants. Replace the placeholder with your real Google Maps API key.

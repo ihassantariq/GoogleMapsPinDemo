@@ -1,4 +1,4 @@
-namespace GoogleMapsPinDemo.Models;
+namespace MauiGoogleMapsInfoWindow.Models;
 
 /// <summary>
 /// Represents a point of interest on the map with detailed information.

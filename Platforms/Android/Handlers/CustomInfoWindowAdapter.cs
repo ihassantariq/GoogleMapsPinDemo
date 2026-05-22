@@ -1,11 +1,11 @@
 #if ANDROID
 using Android.Gms.Maps;
 using Android.Gms.Maps.Model;
-using GoogleMapsPinDemo.Controls;
+using MauiGoogleMapsInfoWindow.Controls;
 using Microsoft.Maui.Controls.Embedding;
 using AndroidView = Android.Views.View;
 
-namespace GoogleMapsPinDemo.Platforms.Android.Handlers;
+namespace MauiGoogleMapsInfoWindow.Platforms.Android.Handlers;
 
 public class CustomInfoWindowAdapter : Java.Lang.Object, GoogleMap.IInfoWindowAdapter
 {

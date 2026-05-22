@@ -19,8 +19,8 @@ A .NET MAUI app demonstrating how to display custom map pins with info windows u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/imhassantariq/GoogleMapsPinDemo.git
-   cd GoogleMapsPinDemo
+   git clone https://github.com/imhassantariq/MauiGoogleMapsInfoWindow.git
+   cd MauiGoogleMapsInfoWindow
    ```
 
 2. Open `Constants.cs` and replace `YOUR_GOOGLE_MAPS_API_KEY` with your actual Google Maps API key:

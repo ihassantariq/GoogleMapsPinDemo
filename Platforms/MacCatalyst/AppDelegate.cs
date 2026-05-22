@@ -1,6 +1,6 @@
 using Foundation;
 
-namespace GoogleMapsPinDemo;
+namespace MauiGoogleMapsInfoWindow;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

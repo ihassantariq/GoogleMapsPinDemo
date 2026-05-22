@@ -1,7 +1,7 @@
 using Android.App;
 using Android.Runtime;
 
-namespace GoogleMapsPinDemo;
+namespace MauiGoogleMapsInfoWindow;
 
 [Application]
 [MetaData("com.google.android.maps.v2.API_KEY", Value = Constants.GoogleMapsApiKey)]

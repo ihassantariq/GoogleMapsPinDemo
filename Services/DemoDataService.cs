@@ -1,6 +1,6 @@
-namespace GoogleMapsPinDemo.Services;
+namespace MauiGoogleMapsInfoWindow.Services;
 
-using GoogleMapsPinDemo.Models;
+using MauiGoogleMapsInfoWindow.Models;
 
 /// <summary>
 /// Provides demo/seed data for map pins.
