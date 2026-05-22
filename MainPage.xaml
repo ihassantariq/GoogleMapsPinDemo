@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:googlemaps="clr-namespace:Maui.GoogleMaps;assembly=Maui.GoogleMaps"
+             x:Class="GoogleMapsPinDemo.MainPage"
+             Title="World Landmarks 🌍">
+
+    <Grid>
+        <!-- The Google Map fills the entire page -->
+        <googlemaps:Map x:Name="MyMap"
+                        MapType="Street"
+                        MyLocationEnabled="False" />
+    </Grid>
+
+</ContentPage>
